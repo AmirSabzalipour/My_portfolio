@@ -18,27 +18,20 @@
 <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 20px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
 <br>
 
-
-<span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span> <br>
-
-<hr style="border: none; border-top: 1px solid lightgray;">
+<hr style="border: none; border-top: 1px dashed lightgray; margin: 0; padding: 0;">
 
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Machine Learning:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> <br>
 
-<hr style="border: none; border-top: 1px solid lightgray;">
-
+<hr style="border: none; border-top: 1px dashed lightgray; margin: 0; padding: 0;">
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.</span><br>
 
-<hr style="border: none; border-top: 1px solid lightgray;"><br>
-
+<hr style="border: none; border-top: 1px dashed lightgray; margin: 0; padding: 0;">
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Modeling:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.</span><br>
 
-<hr style="border: none; border-top: 1px solid lightgray;"><br>
-
+<hr style="border: none; border-top: 1px dashed lightgray; margin: 0; padding: 0;">
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.</span><br>
 
-<hr style="border: none; border-top: 1px solid lightgray;"><br>
-
+<hr style="border: none; border-top: 1px dashed lightgray; margin: 0; padding: 0;">
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.</span>
 
 
