@@ -23,10 +23,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}"> <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
+        
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}"></a></p>
         {% endif %}
@@ -48,7 +45,7 @@
         {% if site.github.is_project_page %}
         <p> <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small> &mdash; </small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
