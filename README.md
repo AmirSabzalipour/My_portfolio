@@ -44,14 +44,14 @@
 </div><br><br>
 
 <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 1px;">
+    <li style="margin-bottom: .2px;">
         <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro'">I) Computational Research on Materials</span><br>
         <ul style="list-style-type: none; padding-left: 20px;">
-            <li style="margin-bottom: 1px;">
+            <li style="margin-bottom: .2px;">
                 <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro'">I-1) Postdoctoral Researcher</span>
                 <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro'">University of Antwerp, Belgium, Oct. 2021 - Jan. 2023</span>
             </li>
-            <li style="margin-bottom: 1px;">
+            <li style="margin-bottom: .2px;">
                 <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro'">I-2) Doctoral Researcher</span>
                 <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro'">University of Antwerp, Belgium, Mar. 2017 - Oct. 2021</span>
             </li>
