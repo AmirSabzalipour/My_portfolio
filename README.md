@@ -13,8 +13,7 @@
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro'; margin-bottom: -5px;">Programming:</span>
 <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
 <hr style="border: none; border-top: 1px dashed lightgray; margin: -5px 0 -5px 0; padding: 0;">
-<span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif; margin-top: -5px;">Data Science:</span><br>
-<span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; margin-left: 20px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
+<span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif; margin-top: -5px;">Data Science: Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
 
 
 
