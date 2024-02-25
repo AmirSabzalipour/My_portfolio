@@ -22,7 +22,6 @@
 <hr style="border: none; border-top: 1px solid lightgray;"><br>
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.</span>
 
-
 <br><br><br>
 <div style="border-radius: 20px;background-color: #f7f7f7;width: 145px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"> <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br>
