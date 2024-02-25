@@ -11,7 +11,7 @@
 </div><br>
 
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro'">Programming:</span>
-<span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span> 
+<span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; margin-bottom: 0;">Python, C, Mathematica, and SQL (Structured Query Language).</span> 
 
 <hr style="border: none; border-top: 1px dashed lightgray; margin: 0; padding: 0;">
 
