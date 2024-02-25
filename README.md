@@ -6,19 +6,20 @@
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
 
+
 <div style="border-radius: 20px; background-color: #f7f7f7; width: 145px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;">
     <span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
 </div>
 
 
-<div style="width: 540px; margin-top: 0 px;"> 
+<div style="width: 540px; margin-top: 5 px;"> 
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span>
-        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
+        <span style="font-size: 15px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
     </div>
 </div>
 
-<div style="width: 540px; margin-top: -3px;"> 
+<div style="width: 540px; margin-top: 0px;"> 
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span>
         <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
