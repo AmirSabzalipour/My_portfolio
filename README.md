@@ -1,7 +1,7 @@
 
 <br><br>
 <div style="background-color: #f7f7f7; border-radius: 20px; padding: 10px;">
-<span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.</span> </div>
+<span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.</span> </div><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
@@ -9,20 +9,13 @@
 <div style="border-radius: 20px; background-color: #f7f7f7; width: 145px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;">
     <span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
 </div><br>
-
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro'; margin-bottom: -5px; line-height: 1;">Programming:</span>
 <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; margin-bottom: -5px; line-height: 1;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
-
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif; margin-top: -5px;">Data Science: </span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
-
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Machine Learning:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Skilled in SciKit Learn: Regression, Classification (Random Forests, Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and Neural Networks with PyTorch.</span> <br>
-
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.</span><br>
-
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Modeling:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Large-Scale and Parallel material Simulations with High-Performance Computing (HPC) Using VASP and Quantum ESPRESSO.</span><br>
-
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span> <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating, thin films characterizing by interferometric methods and Atomic Force Microscopy.</span><br>
-
 <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span><span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.</span>
 
 
