@@ -13,9 +13,18 @@
   {% include head-custom.html %>
 
   <style>
-    /* Adjust the width of the left part containing the picture */
-    .left-part {
-      width: 15%; /* Set the width to 15% */
+    /* Adjust the width of the header elements */
+    header {
+      display: flex;
+      align-items: center;
+    }
+
+    .header-left {
+      width: 15%;
+    }
+
+    .header-right {
+      width: 85%;
     }
   </style>
 </head>
@@ -23,38 +32,37 @@
 <div class="wrapper">
   <header>
     <!-- Your name -->
-    <h1></h1>
-
-    {% if site.logo %}
-    <div class="left-part">
-        <img src="{{site.logo | relative_url}}" alt="Logo" />
+    <div class="header-left">
+      {% if site.logo %}
+      <img src="{{site.logo | relative_url}}" alt="Logo" />
+      {% endif %}
     </div>
-    {% endif %}
 
-    <p>{{ site.description | default: site.github.project_tagline }}</p>
+    <div class="header-right">
+      <h1></h1>
 
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-    {% if site.github.is_user_page %}
-    <p class="view"><a href="{{ site.github.owner_url }}"></a></p>
-    {% endif %}
+      {% if site.github.is_user_page %}
+      <p class="view"><a href="{{ site.github.owner_url }}"></a></p>
+      {% endif %}
 
-    {% if site.show_downloads %}
-    <ul class="downloads">
-      <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-      <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-      <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-    </ul>
-    {% endif %}
+      {% if site.show_downloads %}
+      <ul class="downloads">
+        <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+        <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+        <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+      </ul>
+      {% endif %}
+    </div>
   </header>
+
   <section>
-
     {{ content }}
-
   </section>
+
   <footer>
     <p><small> &mdash; </small></p>
   </footer>
 </div>
-<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-</body>
-</html>
+<script src="{{ "/asset
