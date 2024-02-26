@@ -12,10 +12,23 @@
   <![endif]-->
   {% include head-custom.html %}
 
-  <style>
+   <style>
     /* Adjust the width of the left column */
     .wrapper {
-      width: 92%; /* Decrease the width as needed */
+      width: 92%; /* Maintain the original width */
+      display: flex;
+    }
+
+    .section-a {
+      flex: 1; /* Make Section A flexible */
+    }
+
+    .section-b {
+      flex: 1; /* Make Section B flexible */
+    }
+
+    .spacing {
+      flex-basis: 20px; /* Adjust the spacing */
     }
   </style>
 </head>
