@@ -29,7 +29,7 @@
 
 <div style="width: 540px; margin-top: 10px;"> 
     <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 1px;">Machine Learning:</span>
+        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Machine Learning:</span>
         <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Skilled in SciKit Learn: Regression, Classification (Random Forests, </span>
         <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Support Vector Machines and ..), Natural Language Processing (NLP), Deep Learning and</span>
         <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Neural Networks with PyTorch.</span>
