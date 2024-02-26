@@ -22,8 +22,8 @@
 <div style="width: 540px; margin-top: 10px;"> 
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span>
-        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
-        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 30px;">Additional line content goes here.</span>
+        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Extensive experience in data science libraries such as NumPy, Pandas, </span>
+        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 30px;">Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
     </div>
 </div>
 
