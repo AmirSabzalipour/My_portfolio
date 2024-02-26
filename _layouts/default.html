@@ -10,12 +10,12 @@
   <!--[if lt IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
   <![endif]-->
-  {% include head-custom.html %}
+  {% include head-custom.html %>
 
   <style>
-    /* Adjust the width of the left column */
-    .wrapper {
-      width: 80%; /* Decrease the width as needed */
+    /* Adjust the width of the left part containing the picture */
+    .left-part {
+      width: 15%; /* Set the width to 15% */
     }
   </style>
 </head>
@@ -26,7 +26,9 @@
     <h1></h1>
 
     {% if site.logo %}
-    <img src="{{site.logo | relative_url}}" alt="Logo" />
+    <div class="left-part">
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
+    </div>
     {% endif %}
 
     <p>{{ site.description | default: site.github.project_tagline }}</p>
