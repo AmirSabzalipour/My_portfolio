@@ -9,71 +9,66 @@
 <br><br><br>
 
 
-<div style="border-radius: 20px; background-color: #f7f7f7; width: 1px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;">
-    <span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
+
+
+<span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
+
+<div style="border-radius: 20px; background-color: #f7f7f7; width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC; line-height: 1.5;">
+    <span style="font-size: 20px; color: #2171b5; font-family: 'Avenir Next LT Pro';">Work Experience</span>
 </div><br><br>
 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
-    </div>
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: .2px;">
+        <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro';">I) Computational Research on Materials</span><br>
+        <ul style="list-style-type: none; padding-left: 20px;">
+            <li style="margin-bottom: .2px;">
+                <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">I-1) Postdoctoral Researcher</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">University of Antwerp, Belgium, Oct. 2021 - Jan. 2023</span>
+            </li>
+            <li style="margin-bottom: .2px;">
+                <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">I-2) Doctoral Researcher</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">University of Antwerp, Belgium, Mar. 2017 - Oct. 2021</span>
+            </li>
+            <li style="margin-bottom: 1px;">
+                <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">I-3) Visiting Researcher</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Institute for Research in Fundamental Sciences, Iran, Feb. 2016 - Feb. 2017</span>
+            </li>
+            <li style="margin-bottom: 1px;">
+                <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">I-4) Visiting Researcher</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Uppsala University, Uppsala, Sweden, October 2015 - January 2016</span>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+
+<div style="margin-top: 20px;">
+    <h3>Optical Design</h3>
+    <ul>
+        <li>
+            <strong>Research Engineer</strong><br>
+            <em>University of Antwerp, Antwerp, Belgium</em><br>
+            January 2020 - March 2021
+        </li>
+        <li>
+            <strong>Optical Design Engineer</strong><br>
+            <em>Institute for Advanced Studies in Basic Science, Iran</em><br>
+            January 2014 - September 2015
+        </li>
+    </ul>
 </div>
 
-<div style="width: 540px; margin-top: 10px;"> 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 1px;">Data Science:</span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Extensive experience in data science libraries such as NumPy, Pandas, </span>
-        <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
-    </div>
+<div style="margin-top: 20px;">
+    <h3>Material Characterization, Optical Metrology</h3>
+    <ul>
+        <li>
+            <strong>Research Assistance</strong><br>
+            <em>University of Tehran, Tehran</em><br>
+            May 2008 - August 2009
+        </li>
+    </ul>
 </div>
 
-<div style="width: 540px; margin-top: 10px;"> 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Machine Learning:</span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Skilled in SciKit Learn: Regression, Classification (Random , </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Forests, Support Vector Machines ), Natural Language Processing </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">(NLP), Deep Learning and Neural Networks with PyTorch.</span>
-    </div>
-</div>
-
-
-
-<div style="width: 540px; margin-top: 10px;"> 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Optimization:</span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Employing the Pyomo modeling language and solvers, such as CPLEX  </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">and Gurobi, with mixed-integer linear and nonlinear programming. </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"></span>
-    </div>
-</div>
-
-<div style="width: 540px; margin-top: 10px;"> 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Material Modeling:</span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Large-Scale and Parallel material Simulations with High- </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Performance Computing (HPC) Using VASP and Quantum ESPRESSO. </span>
-        <span style="font-size: 13.5px; color: dimblack; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"></span>
-    </div>
-</div>
-
-<div style="width: 540px; margin-top: 10px;"> 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 14px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Material Characterization:</span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Using physical vapor deposition (PVD) for nanocoating, thin </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"> films characterizing by interferometric methods and Atomic Force Microscopy. </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"></span>
-    </div>
-</div>
-
-<div style="width: 540px; margin-top: 10px;"> 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Mathematical Skills:</span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Wave Theory, Matrix Mechanics, Differential Equations, Statistics, </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"> Topology, Functional Analysis, Fourier Transformations, Perturbation theory. </span>
-        <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"></span>
-    </div>
-</div>
-</div>
 <br>
 <div style="border-radius: 20px;background-color: #f7f7f7;width: 145px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"> <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br>
