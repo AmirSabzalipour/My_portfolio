@@ -107,11 +107,11 @@
             </li>
             <li style="margin-bottom: 1px;">
                 <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">I-3) Visiting Researcher</span>
-                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Institute for Research in Fundamental Sciences, Iran, Feb. 2016 - Feb. 2017</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Institute for Research in Fundamental Sciences, Feb. 2016 - Feb. 2017</span>
             </li>
             <li style="margin-bottom: 1px;">
                 <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">I-4) Visiting Researcher</span>
-                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Uppsala University, Uppsala, Sweden, October 2015 - January 2016</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Uppsala University, Uppsala, October 2015 - January 2016</span>
             </li>
         </ul>
     </li>
