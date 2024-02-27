@@ -148,8 +148,6 @@
     </li>
 </ul>
 
-
-
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Publications </span>
 
 - Dissipationless transport by design in a thin magnetic topological insulator-ferromagnetic heterostructure,   
