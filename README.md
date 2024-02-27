@@ -14,7 +14,7 @@
 
 <div style="width: 540px; margin-top: 30px;"> 
     <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: 2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span>
+        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span>
         <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
     </div>
 </div>
@@ -23,7 +23,7 @@
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 1px;">Data Science:</span>
         <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Extensive experience in data science libraries such as NumPy, Pandas, </span>
-        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
+        <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
     </div>
 </div>
 
@@ -69,15 +69,8 @@
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Mathematical Skills:</span>
         <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Wave Theory, Matrix Mechanics, Differential Equations, Statistics, </span>
-        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"> films characterizing by interferometric methods and Atomic Force Microscopy. </span>
+        <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"> Topology, Functional Analysis, Fourier Transformations, Perturbation theory. </span>
         <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"></span>
-    </div>
-</div>
-
-<div style="width: 540px; margin-top: 10px;"> 
-    <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 14px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Mathematical Skills:</span>
-        <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Wave Theory, Matrix Mechanics, Differential Equations, Statistics, Topology, Functional Analysis, Fourier Transformations, Perturbation theory.</span>
     </div>
 </div>
 
