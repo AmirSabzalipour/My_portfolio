@@ -91,7 +91,7 @@
 
 <div style="border-radius: 20px; background-color: #f7f7f7; width: 170px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC; line-height: 1.5;">
     <span style="font-size: 20px; color: #2171b5; font-family: 'Avenir Next LT Pro';">Work Experience</span>
-</div><br><br>
+</div>
 
 <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: .2px;">
