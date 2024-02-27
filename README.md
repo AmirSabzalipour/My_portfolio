@@ -46,10 +46,13 @@
         <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"></span>
     </div>
 </div>
+
 <div style="width: 540px; margin-top: 10px;"> 
     <div align="left" style="line-height: 1.4em;">
-        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization:</span>
-        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">Employing the Pyomo modeling language and solvers, such as CPLEX and Gurobi, with mixed-integer linear and nonlinear programming.</span>
+        <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 10px;">Material Modeling:</span>
+        <span style="font-size: 13.5px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;"> Large-Scale and Parallel material Simulations with High-Performance </span>
+        <span style="font-size: 13.5px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Computing (HPC) Using VASP and Quantum ESPRESSO. </span>
+        <span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;"></span>
     </div>
 </div>
 
