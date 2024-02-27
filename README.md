@@ -1,7 +1,7 @@
 
 <br><br>
 <div style="background-color: #f7f7f7; border-radius: 20px; padding: 10px;">
-<span style="font-size: 14px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif;">As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.</span> </div><br>
+<span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">As a physicist, I develop mathematical models and utilize computer simulations to study material properties for nanoelectronic applications. In addition to computational work on materials, I have also used optical interferometric microscopy to characterize the surface topography of solar cells and optical flats. Finally, I am proud to highlight my solid foundation in data analytics, using data science, machine learning, and optimization techniques throughout my academic career.</span> </div><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
@@ -23,7 +23,7 @@
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;width: 1px;">Data Science:</span>
         <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Extensive experience in data science libraries such as NumPy, Pandas, </span>
-        <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
+        <span style="font-size: 13px; color: dimgray; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
     </div>
 </div>
 
