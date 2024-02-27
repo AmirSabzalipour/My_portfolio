@@ -9,9 +9,9 @@
 
 <div style="border-radius: 20px; background-color: #f7f7f7; width: 145px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;">
     <span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
-</div>
+</div><br><br>
 
-<div style="background-color: #f7f7f7; border-radius: 20px; padding: 10px;">
+<div style="background-color: #f7f7f7; border-radius: 20px; padding: 10px;width: 500px;">
 <div style="width: 540px; margin-top: 30px;"> 
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span>
