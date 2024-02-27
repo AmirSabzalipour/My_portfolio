@@ -124,60 +124,32 @@
         <ul style="list-style-type: none; padding-left: 20px;">
             <li style="margin-bottom: .2px;">
                 <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">II-1) Research Engineer</span>
-                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">University of Antwerp, Antwerp, Belgium, Jan. 2020 - Mar. 2021</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">University of Antwerp, Antwerp, Jan. 2020 - Mar. 2021</span>
             </li>
             <li style="margin-bottom: .2px;">
                 <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">II-2) Optical Design Engineer</span>
-                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Institute for Advanced Studies in Basic Science, Iran,Jan. 2014 - Sep. 2015 </span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">Institute for Advanced Studies in Basic Science,Jan. 2014 - Sep. 2015 </span>
             </li>
-         </ul>
+                    </ul>
     </li>
 </ul>
 
 
 
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: .2px;">
+        <span style="font-size: 14px; color: #6baed6; font-family: 'Avenir Next LT Pro';">III) Material Characterization, Optical Metrology</span><br>
+        <ul style="list-style-type: none; padding-left: 20px;">
+            <li style="margin-bottom: .2px;">
+                <span style="font-size: 13px; color: #94AE7D; font-family: 'Avenir Next LT Pro';">Research Assistance</span>
+                <span style="font-size: 12px; color: gray; font-family: 'Avenir Next LT Pro';">University of Tehran, Tehran, May 2008 - August 2009</span>
+            </li>
+        </ul>
+    </li>
+</ul>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<div style="margin-top: 20px;">
-    <h3>Optical Design</h3>
-    <ul>
-        <li>
-            <strong>Research Engineer</strong><br>
-            <em>University of Antwerp, Antwerp, Belgium</em><br>
-            January 2020 - March 2021
-        </li>
-        <li>
-            <strong>Optical Design Engineer</strong><br>
-            <em>Institute for Advanced Studies in Basic Science, Iran</em><br>
-            January 2014 - September 2015
-        </li>
-    </ul>
-</div>
-
-<div style="margin-top: 20px;">
-    <h3>Material Characterization, Optical Metrology</h3>
-    <ul>
-        <li>
-            <strong>Research Assistance</strong><br>
-            <em>University of Tehran, Tehran</em><br>
-            May 2008 - August 2009
-        </li>
-    </ul>
-</div>
-
-  - 
 <span style="font-size: 24px; color: #5b7f95 ; font-family: 'Avenir Next LT Pro'">Publications </span>
 
 - Dissipationless transport by design in a thin magnetic topological insulator-ferromagnetic heterostructure,   
