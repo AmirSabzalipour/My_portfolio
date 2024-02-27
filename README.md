@@ -66,7 +66,25 @@
     </div>
 </div>
 <br>
+# Data for the table
+table_data = [
+    ["Name", "Age"],
+    ["John", 30],
+    ["Alice", 25],
+    ["Bob", 35],
+    ["Emma", 28]
+]
 
+# File path to save the CSV file
+file_path = "table.csv"
+
+# Writing data to CSV file
+with open(file_path, mode='w', newline='') as file:
+    writer = csv.writer(file)
+    for row in table_data:
+        writer.writerow(row)
+
+print("CSV file created successfully.")
 <br>
 <div style="border-radius: 20px;background-color: #f7f7f7;width: 145px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"> <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br>
