@@ -12,8 +12,8 @@
 
 <div style="border-radius: 20px; background-color: #f7f7f7; width: 540px; padding: 10px; border: 1px solid #CCCCCC;">
     <div align="left" style="line-height: 1.4em;">
-    <span style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span>
-    <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Python, C, Mathematica, and SQL (Structured Query Language).</span>
+    <span style="font-size: 15px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span><span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"></span>
+            <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 0px;"> Python, C, Mathematica, and SQL (Structured Query Language).</span>
 </div>
 
 
