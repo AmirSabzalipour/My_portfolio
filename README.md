@@ -24,7 +24,6 @@
         </div>
 </div>
 
-
 <div style="width: 540px; margin-top: 10px;"> 
         <div align="left" style="line-height: 1.4em;">
             <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -32,6 +31,8 @@
             <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 124px;"> &nbsp;&nbsp;Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
         </div>
 </div>
+
+
 
 
 
