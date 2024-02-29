@@ -27,8 +27,8 @@
     <div align="left" style="line-height: 1.4em;">
         <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Machine Learning:</span>
         <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"> Skilled in SciKit Learn: Regression, Classification (Random ,</span>
-        <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 124px;"> &nbsp;&nbsp;Forests, Support Vector Machines), Natural Language Processing</span>
-        <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro',margin-left: 148px; sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(NLP), Deep Learning and Neural Networks with PyTorch.</span>
+        <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 124px;"> Forests, Support Vector Machines), Natural Language Processing</span>
+        <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro',margin-left: 148px; sans-serif;">(NLP), Deep Learning and Neural Networks with PyTorch.</span>
     </div>
 </div>
 
