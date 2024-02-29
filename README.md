@@ -12,7 +12,7 @@
  <div style="width: 540px; margin-top: 10px;"> 
         <div align="left" style="line-height: 1.4em;">
             <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">&nbsp;Python, C, Mathematica, and SQL (Structured Query Language).</span>
+            <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">&nbsp;&nbsp;Python, C, Mathematica, and SQL (Structured Query Language).</span>
         </div>
     </div>
 
