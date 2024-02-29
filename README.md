@@ -38,7 +38,7 @@
             <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization:&nbsp;&nbsp;&nbsp;&nbsp;</span>
             <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp; Employing the Pyomo modeling language and solvers, such as </span>
             <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 124px;"> &nbsp;&nbsp;CPLEX and Gurobi, with mixed-integer linear and nonlinear</span>
-            <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp; programming. </span>
+            <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;display: block; margin-left: 124px;"> programming. </span>
         </div>
 </div>
 
