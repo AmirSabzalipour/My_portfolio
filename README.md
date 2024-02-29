@@ -43,21 +43,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-<div style="width: 540px; margin-top: 10px;"> 
-        <div align="left" style="line-height: 1.4em;">
-            <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Optimization:</span>
-            <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Employing the Pyomo modeling language and solvers, such as CPLEX</span>
-            <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">and Gurobi, with mixed-integer linear and nonlinear programming.</span>
-        </div>
- </div>
-
 <div style="width: 540px; margin-top: 10px;"> 
         <div align="left" style="line-height: 1.4em;">
             <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Material Modeling:</span>
