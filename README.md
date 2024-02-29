@@ -24,15 +24,7 @@
         </div>
 </div>
             
-   
-<div style="width: 540px; margin-top: 10px;"> 
-        <div align="left" style="line-height: 1.4em;">
-            <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Data Science:</span>
-            <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"></span>
-            <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 124px;">Extensive experience in data science libraries such as NumPy, Pandas, Matplotlib, Spark, Seaborn, Cufflinks, and more.</span>
-        </div>
-</div>
-
+ 
 <div style="width: 540px; margin-top: 10px;"> 
         <div align="left" style="line-height: 1.4em;">
             <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Machine Learning:<span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;"></span>
