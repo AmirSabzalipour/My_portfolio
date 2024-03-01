@@ -78,7 +78,7 @@
   <colgroup>
 	<col>
   	<col>
-	<col>
+	
   </colgroup>
   <tr>
   	<th>Name</th>
