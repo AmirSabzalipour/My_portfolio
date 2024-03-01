@@ -73,6 +73,38 @@
     </div>
 </div>
  </div><br><br>
+
+<table>
+  <colgroup>
+	<col>
+  	<col>
+	<col>
+  </colgroup>
+  <tr>
+  	<th>Name</th>
+  	<th>Job Title</th>
+  	<th>Email address</th>
+  </tr>
+  <tr>
+  	<td>Anna Fitzgerald</td>
+  	<td>Staff Writer</td>
+ 	<td>example@company.com</td>
+  </tr>
+  <tr>
+  	<td>John Smith</td>
+  	<td>Marketing Manager</td>
+  	<td>example2@company.com</td>
+  </tr>
+  <tr>
+  	<td>Zendaya Grace</td>
+  	<td>CEO</td>
+  	<td>example2@company.com</td>
+  </tr>
+</table>
+
+
+
+
 <br>
 <div style="border-radius: 20px;background-color: #f7f7f7;width: 145px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;"> <span style="font-size: 20px; color:#2171b5 ; font-family: 'Avenir Next LT Pro'">Education</span></div> <br> 
 <span style="font-size:15px;color:#94AE7D; font-family: 'Avenir Next LT Pro', sans-serif;">Ph.D. in Physics,</span><br>
