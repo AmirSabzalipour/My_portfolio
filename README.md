@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
 <br><br><br>
 
-<span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
+<span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skillss</span>
 <br><br>
 
 <div style="border-radius: 20px; background-color: #f7f7f7; width:480px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;">
