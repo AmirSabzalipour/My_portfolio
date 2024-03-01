@@ -52,7 +52,7 @@
         <div align="left" style="line-height: 1.4em;">
             <span style="font-size: 15px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Material </span>
             <span style="font-size: 14px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Large-Scale and Parallel material Simulations with High- </span>
-            <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 124px;"> &nbsp;&nbsp;Modeling: Performance Computing (HPC) Using VASP and Quantum ESPRESSO.</span>
+            <span style="font-size: 13px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 124px;"> Modeling: &nbsp;&nbsp;&nbsp;&nbsp;Performance Computing (HPC) Using VASP and Quantum ESPRESSO.</span>
          </div>
 </div>
 
