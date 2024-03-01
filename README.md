@@ -76,32 +76,26 @@
 
 <table>
   <colgroup>
-	<col>
-  	<col>
-	
+    <col>
+    <col>
   </colgroup>
   <tr>
-  	<th>Name</th>
-  	<th>Job Title</th>
-  	
+    <th>Name</th>
+    <th>Job Title</th>
   </tr>
   <tr>
-  	<td>Anna Fitzgerald</td>
-  	<td>Staff Writer</td>
- 	
+    <td>Anna Fitzgerald</td>
+    <td>Staff Writer</td>
   </tr>
   <tr>
-  	<td>John Smith</td>
-  	<td>Marketing Manager</td>
-  	
+    <td>John Smith</td>
+    <td>Marketing Manager</td>
   </tr>
   <tr>
-  	<td>Zendaya Grace</td>
-  	<td>CEO</td>
-  	
+    <td>Zendaya Grace</td>
+    <td>CEO</td>
   </tr>
 </table>
-
 
 
 
