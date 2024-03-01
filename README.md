@@ -11,7 +11,7 @@
 <span style="font-size: 20px; color:#2171b5; font-family: 'Avenir Next LT Pro'">Technical Skills</span>
 <br><br>
 
-<div style="border-radius: 20px; background-color: #f7f7f7; width: 16px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;">
+<div style="border-radius: 20px; background-color: #f7f7f7; width: 40px; padding-left: 20px; padding-right: 20px; padding-top: 7px; padding-bottom: 7px; border: 1px solid #CCCCCC;">
   
 
  <div style="width: 540px; margin-top: 10px;"> 
