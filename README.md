@@ -58,9 +58,9 @@
 
 <div style="width: 540px; margin-top: 10px;"> 
         <div align="left" style="line-height: 1.4em;">
-            <span style="font-size: 14px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Material Characterization:</span>
+            <span style="font-size: 14px; color: #2171b5; font-family: 'Avenir Next LT Pro', sans-serif;">Material </span>
             <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif;">Using physical vapor deposition (PVD) for nanocoating, thin </span>
-            <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">films characterizing by interferometric methods and Atomic Force Microscopy.</span>
+            <span style="font-size: 13.5px; color: black; font-family: 'Avenir Next LT Pro', sans-serif; display: block; margin-left: 100px;">Characterization: films characterizing by interferometric methods and Atomic Force Microscopy.</span>
         </div>
 </div>
 
