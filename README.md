@@ -81,8 +81,7 @@
 	<col>
   </colgroup>
   <tr>
-  	<th><div align="left" style="line-height: 1.4em;">
-            <span style="font-size: 15px; color: red; font-family: 'Avenir Next LT Pro', sans-serif;">Programming:</span></th>
+  	<th>Name</th>
   	<th>Job Title</th>
   	
   </tr>
