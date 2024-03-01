@@ -37,11 +37,10 @@
     {% endif %}
 
     {% if site.show_downloads %}
-    <ul class="downloads">
-     <li>View On <strong>GitHub</strong></li>
-    </ul>
+     {% if site.github.is_user_page %}
+    <p class="view"><a href="{{ site.github.owner_url }}">View on GitHub</a></p>
     {% endif %}
-  </header>
+      </header>
   <section>
 
     {{ content }}
