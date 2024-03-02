@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/AmirSabzalipour/My_portfolio/blob/main/images/top.jpg" alt="about me" width="230">
+<img src="images/top.jpg" alt="about me" width="230">
 <br><br><br>
 
 
