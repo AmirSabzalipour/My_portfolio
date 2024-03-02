@@ -2,3 +2,10 @@ title: Amir Sabzalipour
 show_downloads: true
 theme: jekyll-theme-minimal
 logo: "/images/mee.jpg?raw=true"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
