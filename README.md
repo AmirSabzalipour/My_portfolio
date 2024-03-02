@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/AmirSabzalipour/Data_Science/main/images/me.png" alt="about me" width="230">
+
+
+<img src="https://github.com/AmirSabzalipour/My_portfolio/blob/main/images/top.jpg" alt="about me" width="230">
 <br><br><br>
-
-
-
 
 
 <br><br>
