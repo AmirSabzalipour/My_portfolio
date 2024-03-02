@@ -1,4 +1,4 @@
-<br><br>
+<br>
 <img src="images/data.jpeg" alt="about me" width="600">
 <br><br><br>
 
