@@ -1,6 +1,6 @@
 
 
-<img src="images/topp.jpg" alt="about me" width="400">
+<img src="images/data.jpg" alt="about me" width="600">
 <br><br><br>
 
 
