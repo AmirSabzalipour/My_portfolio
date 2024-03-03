@@ -2,4 +2,18 @@ title: Amir Sabzalipour
 show_downloads: true
 theme: jekyll-theme-minimal
 logo: "/amir.jpg?raw=true"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   
